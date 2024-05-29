@@ -1,6 +1,7 @@
 # Frontend Mentor - Social links profile
-
-![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
+<a href="https://mustafa-sayed-m.github.io/social-links-profile-main/">
+  <img src="./design/desktop-preview.jpg" alt="any" />
+</a>
 
 ## Welcome! 👋
 
